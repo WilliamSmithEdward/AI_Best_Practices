@@ -45,3 +45,7 @@ These are guidance, not code. Pick the document that fits the task, follow the
 repository's own conventions first, and treat this set as a default the project
 can override. The practices are written to be enforceable in review: each one
 states what good looks like and what to watch for.
+
+## License
+
+Released under the [MIT License](LICENSE).
